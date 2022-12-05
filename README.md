@@ -1,5 +1,5 @@
 
-# Advent of code 2022
+# Advent of code
 
 
 ## Build
@@ -14,6 +14,3 @@ cmake --build build
 ```shell
 ./src/advent
 ```
-
-
-https://github.com/willkill07/AdventOfCode2022/blob/main/days/Day02.cpp
